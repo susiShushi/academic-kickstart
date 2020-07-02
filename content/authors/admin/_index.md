@@ -30,10 +30,10 @@ education:
   courses:
     - course: PhD in Department of Psychology
       institution: Hiroshima University
-      year: 2021
+      year: 2018
     - course: M.A. in Department of Psychology, Graduate School of Education
       institution: Hiroshima University
-      year: 2018
+      year: 2016
     - course: B.A in Department of Psychology, Faculty of Education
       institution: Hiroshima University
       year: 2014
