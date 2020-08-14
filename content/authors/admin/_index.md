@@ -28,7 +28,10 @@ social:
     link: https://github.com/susiShushi
   - icon: cv
     icon_pack: ai
-    link: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+    link: {{< staticref "files/cv.pdf" >}}
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Shushi_Namba
 education:
   courses:
     - course: PhD in Department of Psychology
