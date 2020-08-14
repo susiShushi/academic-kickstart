@@ -26,6 +26,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/susiShushi
+  - icon: cv
+    icon_pack: ai
+    link: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 education:
   courses:
     - course: PhD in Department of Psychology
