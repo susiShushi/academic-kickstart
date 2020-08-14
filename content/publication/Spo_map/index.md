@@ -43,7 +43,7 @@ projects = ["facial_expression-project"]
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/"
+url_source = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -57,8 +57,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = "My caption :smile:"
+#[header]
+#image = ""
+#caption = "My caption :smile:"
 
 +++

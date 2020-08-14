@@ -43,7 +43,7 @@ projects = ["facial_expression-project"]
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00672/abstract"
+url_source = "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00672/abstract"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -57,8 +57,8 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
