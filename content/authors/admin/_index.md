@@ -29,9 +29,7 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Shushi_Namba
-  - icon: cv
-    icon_pack: ai
-    link: {{< ref "files/cv.pdf" >}}
+
 education:
   courses:
     - course: PhD in Department of Psychology
