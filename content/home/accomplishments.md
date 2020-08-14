@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "米国AI開発者がゼロから教えるDocker講座 (Docker lecture in Japanese)"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-0b56807c-1570-4d2a-91f0-595aab997fa9/"
+  date_start = ""
+  date_end = "2020-07-06"
+  description = ""
 
 [[item]]
   organization = "Udemy"
