@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Docker"
   description = "30%"
 
