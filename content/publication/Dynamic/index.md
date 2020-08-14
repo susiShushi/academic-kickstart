@@ -27,7 +27,7 @@ abstract = "Accurately gauging the emotional experience of another person is imp
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -47,7 +47,7 @@ url_source = "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00672/abst
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00672/abstract"}]
+#url_custom = [{name = "Custom Link", url = "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00672/abstract"}]
 
 # Does the content use math formatting?
 math = true

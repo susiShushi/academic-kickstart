@@ -27,7 +27,7 @@ abstract = "The correspondence between facial expressions and emotions has been 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -47,7 +47,7 @@ url_source = "https://link.springer.com/article/10.1007%2Fs12144-016-9448-9"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://link.springer.com/article/10.1007%2Fs12144-016-9448-9"}]
+#url_custom = [{name = "Custom Link", url = "https://link.springer.com/article/10.1007%2Fs12144-016-9448-9"}]
 
 # Does the content use math formatting?
 math = true

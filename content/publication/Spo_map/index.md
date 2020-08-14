@@ -27,7 +27,7 @@ abstract = "While numerous studies have examined the relationships between facia
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -47,7 +47,7 @@ url_source = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/"}]
+#url_custom = [{name = "Custom Link", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415601/"}]
 
 # Does the content use math formatting?
 math = true
