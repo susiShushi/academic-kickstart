@@ -33,9 +33,6 @@ tags:
 # Is this a selected publication? (true/false)
 featured: true
 
-
-
-
 # links:
 # - name: ""
 #   url: ""
@@ -51,10 +48,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
