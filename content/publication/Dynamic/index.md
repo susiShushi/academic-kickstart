@@ -31,7 +31,7 @@ summary: Dynamic information in facial displays contributes to the ability to ac
 tags:
 #- Source Themes
 # Is this a selected publication? (true/false)
-featured: true
+featured: false
 
 # links:
 # - name: ""
