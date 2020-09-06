@@ -47,6 +47,16 @@ date_format = "Jan 2006"
   date_end = "2020-08-12"
   description = ""
 
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = "Docker and Kubernetes: The Complete Guide"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-14430810-8e36-4e13-9375-3adb4948d073/"
+  date_start = "2020-09-06"
+  date_end = ""
+  description = ""
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
