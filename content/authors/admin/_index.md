@@ -48,4 +48,4 @@ user_groups:
 ---
 Shushi Namba is an Assisant Professor of Psychology at the Hiroshima Congnitive Psychology Lab. My research interests include spontaneous facial expressions, human computing and social cognition.
 
-{{% staticref "files/cv.html" %}}{{< icon name="cv" pack="ai" >}} Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}{{< icon name="cv" pack="ai" >}} Download my CV{{% /staticref %}}
