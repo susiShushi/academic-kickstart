@@ -57,6 +57,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Cousera"
+  organization_url = "https://www.coursera.org/"
+  title = "Machine Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/KYW45CANBU32"
+  date_start = "2020-09-13"
+  date_end = ""
+  description = ""
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
