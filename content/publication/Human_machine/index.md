@@ -32,7 +32,7 @@ abstract: "The majority of research on the judgment of emotion from facial expre
 tags:
 #- Source Themes
 # Is this a selected publication? (true/false)
-featured: true
+featured: false
 
 # links:
 # - name: ""
