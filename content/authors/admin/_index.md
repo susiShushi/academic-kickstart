@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Hiroshima University
-    url: https://www.hiroshima-u.ac.jp/en
+  - name: Riken
+    url: https://www.riken.jp/en/
 superuser: true
 authors:
   - admin
 title: Shushi Namba
-role: Assistant professor of psychology
+role: Researcher
 bio: My research interests include distributed facial expression,computational
   modeling and programmable matter.
 interests:
