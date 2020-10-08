@@ -1,5 +1,5 @@
 ---
-title: "Emotion recognition from posed and spontaneous dynamic expressions: Human observers versus machine analysis"
+title: "Human and machine validation of 14 databases of dynamic facial expressions"
 authors: 
     - Eva G Krumhuber
     - Dennis Küster
