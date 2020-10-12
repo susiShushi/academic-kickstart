@@ -1,5 +1,5 @@
 ---
-title: "Emotion recognition from posed and spontaneous dynamic expressions: Human observers versus machine analysis"
+title: "Semantics based on the physical characteristics of facial expressions used to produce Japanese vowels"
 authors: 
     - admin
     - Toshimune Kambara
