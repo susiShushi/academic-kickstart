@@ -4,7 +4,7 @@ authors:
     - admin
     - Toshimune Kambara
 date: "2020-10-12T00:00:00"
-doi: ""
+doi: "10.3390/bs10100157"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2018-05-10T00:00:00Z"
