@@ -32,7 +32,7 @@ abstract: "Extant evidence points toward the role of contextual information and 
 tags:
 #- Source Themes
 # Is this a selected publication? (true/false)
-featured: true
+featured: false
 
 # links:
 # - name: ""
