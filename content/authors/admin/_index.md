@@ -46,6 +46,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Shushi Namba is a Researcher of RIKEN (Psychological Process Research Team,Guardian Robot Project). My research interests include spontaneous facial expressions, human computing and social cognition.
+Shushi Namba is a Researcher of RIKEN (Psychological Process Research Team, Guardian Robot Project). My research interests include spontaneous facial expressions, human computing and social cognition.
 
 {{% staticref "files/cv.html" %}}{{< icon name="cv" pack="ai" >}} Download my CV{{% /staticref %}}
