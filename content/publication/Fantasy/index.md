@@ -11,11 +11,11 @@ authors:
     - Jun Shigematsu
     - Makoto Miyatani
     - Takashi Nakao
-date: ""
-doi: ""
+date: "2021-08-28T00:00:00"
+doi: "10.1080/02702711.2021.1939823"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2021-08-28T00:00:00"
 
 
 # Publication type.
@@ -34,7 +34,7 @@ abstract: "Reading literature contributes to the development of language skills 
 # Summary. An optional shortened abstract.
 #summary: 
 
-url_pdf: ''
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1939823'
 url_code: ''
 url_dataset: ''
 url_poster: ''
