@@ -32,13 +32,13 @@ social:
 
 education:
   courses:
-    - course: PhD in Department of Psychology
+    - course: PhD in Psychology
       institution: Hiroshima University
       year: 2018
-    - course: M.A. in Department of Psychology, Graduate School of Education
+    - course: M.A. in Psychology
       institution: Hiroshima University
       year: 2016
-    - course: B.A in Department of Psychology, Faculty of Education
+    - course: B.A in Psychology
       institution: Hiroshima University
       year: 2014
 email: ""
