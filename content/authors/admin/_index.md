@@ -1,12 +1,12 @@
 ---
 organizations:
-  - name: Riken
-    url: https://www.riken.jp/en/
+  - name: Hiroshima University
+    url: https://www.hiroshima-u.ac.jp/en
 superuser: true
 authors:
   - admin
 title: Shushi Namba
-role: Researcher
+role: Associate Professor
 bio: My research interests include distributed facial expression,computational
   modeling and programmable matter.
 interests:
@@ -46,6 +46,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Shushi Namba is a Researcher of RIKEN (Psychological Process Research Team, Guardian Robot Project). My research interests include spontaneous facial expressions, human computing and social cognition.
+Shushi Namba is an Associate Professor of Hiroshima University. My research interests include spontaneous facial expressions, human computing and social cognition.
 
 {{% staticref "files/cv.html" %}}{{< icon name="cv" pack="ai" >}} Download my CV{{% /staticref %}}
