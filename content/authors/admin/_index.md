@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Hiroshima University
+  - name: HiroshimaUniv
     url: https://www.hiroshima-u.ac.jp/en
 superuser: true
 authors:
